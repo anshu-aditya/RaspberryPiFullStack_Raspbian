@@ -42,6 +42,7 @@ Step 2
 ------
 $ sudo apt-get upgrade
 
+//install python virtual environment
 Step 3
 ------
 $ sudo apt-get install build-essential
@@ -60,6 +61,8 @@ Step 6
 ------
 $ sudo apt-get install python-dev
 $ sudo apt-get install vim
+//upto here installing python virtual environment
+
 
 Step 7
 ------
