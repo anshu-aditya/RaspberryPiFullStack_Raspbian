@@ -42,7 +42,7 @@ Step 2
 ------
 $ sudo apt-get upgrade
 
-//install python virtual environment
+//installing essential modules to system python for venv
 Step 3
 ------
 $ sudo apt-get install build-essential
